@@ -53,6 +53,6 @@ sky:
     access-key-secret: ${sky.alioss.access-key-secret}
     bucket-name: ${sky.alioss.bucket-name}
   shop:
-    address: 北京市海淀区上地十街10号
+    address: your-address
   baidu:
     ak: your-ak
