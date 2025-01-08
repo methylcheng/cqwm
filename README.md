@@ -55,4 +55,8 @@ Web 框架：使用 **Spring Boot**，它能够帮助我们快速搭建独立的
 ### 配送调度
 ***
 平台会根据订单的地理位置、配送员当前位置等多方面信息，借助特定的算法（例如基于距离、时间等因素的分配算法）来合理分配订单给配送员，以此提高配送效率，确保菜品能够及时、准确地送到用户手中。
+# 五、部分接口文档截图
+***
 <img width="1244" alt="联想截图_20250108183534" src="https://github.com/user-attachments/assets/7d4963ff-48d1-4c12-b446-421483cfc719" />
+<img width="1244" alt="联想截图_20250108183609" src="https://github.com/user-attachments/assets/9cb046b3-425e-40e0-bccb-0fece52f76d8" />
+<img width="1244" alt="联想截图_20250108183828" src="https://github.com/user-attachments/assets/fdd8d526-295e-44e7-9b28-90e593fd71cc" />
